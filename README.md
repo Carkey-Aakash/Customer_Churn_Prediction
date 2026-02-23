@@ -153,29 +153,6 @@ The dataset contains customer details and whether they exited (churned) or not.
 - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## 📚 References
-
-- https://www.avaus.com/blog/predicting-customer-churn/
-
-- https://medium.com/@allanouko17/customer-churn-prediction-using-machine-learning-ddf4cd7c9fd4
-  
-- https://www.analyticsvidhya.com/blog/2022/09/bank-customer-churn-prediction-using-machine-learning/
-   
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 👩‍💻 Author
-
-Muqadas Ejaz
-
-BS Computer Science (AI Specialization)
-
-Machine Learning & Computer Vision Enthusiast
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muqadasejaz/)  
-
-🌐 GitHub: [github.com/muqadasejaz](https://github.com/muqadasejaz)
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📎 License
